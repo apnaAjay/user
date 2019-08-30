@@ -1,0 +1,77 @@
+{
+        "id": 3234,
+        "phone_number": "008",
+        "full_name": "Ajay Shelar",
+        "email": "",
+        "profile": {
+            "smart_resume_color": null,
+            "language": null,
+            "location_json": {
+                "locationId": "ChIJQ3sdHAjI5zsRZuOLS8UA8bo",
+                "locationName": "Powai",
+                "locationAddress": "Powai, Mumbai, Maharashtra, India",
+                "locationLatitude": "19.1197229",
+                "locationLongitude": "72.9051708"
+            },
+            "gender": "f",
+            "school": "",
+            "course": "",
+            "age": null,
+            "computer": "True",
+            "skills": {
+                "Accounts": [
+                    {
+                        "id": 14,
+                        "skill": "TDS"
+                    }
+                ],
+                "Mobile Technician": [
+                    {
+                        "id": 50,
+                        "skill": "Organizing skills"
+                    }
+                ]
+            },
+            "english_proficiency": "basic",
+            "area": "Powai",
+            "city": "Mumbai"
+        },
+        "work_info": {
+            "experience_level": {
+                "level": "f",
+                "ordered_id": null
+            },
+            "degree": null,
+            "education_level": {
+                "ordered_id": 2,
+                "level": "12th Pass"
+            },
+            "work_status": false,
+            "experience_in_years": null,
+            "current_job_type": null,
+            "company": null,
+            "is_current_company": false,
+            "interests": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                15,
+                16,
+                17,
+                45
+            ]
+        },
+        "referrals": 0,
+        "views": 9,
+        "friends": 1,
+        "connected": false
+    }
